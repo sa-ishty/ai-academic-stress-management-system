@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI-Powered Academic Stress Management System is a Software Engineering project designed to help university students manage academic stress through AI-assisted support, goal tracking, wellness resources, therapy session booking, and community engagement. The project focuses on requirement analysis, system design, UI/UX prototyping, project management, and software engineering best practices. 【1-75c021】【2-8c0b88】
+AI-Powered Academic Stress Management System is a Software Engineering project designed to help university students manage academic stress through AI-assisted support, goal tracking, wellness resources, therapy session booking, and community engagement. The project focuses on requirement analysis, system design, UI/UX prototyping, project management, and software engineering best practices.
 
 ---
 
@@ -13,7 +13,7 @@ AI-Powered Academic Stress Management System is a Software Engineering project d
 - Enable therapy session booking and crisis support.
 - Track academic and wellness progress.
 - Facilitate peer support through community forums.
-- Deliver a user-friendly and accessible platform. 【1-75c021】
+- Deliver a user-friendly and accessible platform.
 
 ---
 
@@ -25,7 +25,7 @@ AI-Powered Academic Stress Management System is a Software Engineering project d
 - Participated in software analysis and system design activities.
 - Managed project planning and task tracking using Asana.
 - Applied Agile Scrum methodology throughout the project lifecycle.
-- Designed user journeys and feature specifications. 【1-75c021】【2-8c0b88】【3-589f38】
+- Designed user journeys and feature specifications.
 
 ---
 
@@ -71,7 +71,7 @@ AI-Powered Academic Stress Management System is a Software Engineering project d
 - Secure Payment Processing
 - Payment Gateway Integration
 
-【1-75c021】【3-589f38】
+
 
 ---
 
@@ -97,7 +97,7 @@ AI-Powered Academic Stress Management System is a Software Engineering project d
 - Task Management
 - Project Scheduling
 
-【1-75c021】
+
 
 ---
 
@@ -108,7 +108,7 @@ AI-Powered Academic Stress Management System is a Software Engineering project d
 - Activity Diagram
 - Sequence Diagram
 
-【1-75c021】【3-589f38】
+
 
 ---
 
@@ -124,7 +124,7 @@ AI-Powered Academic Stress Management System is a Software Engineering project d
 - Resource Library
 - Payment System
 
-【2-8c0b88】
+
 
 ---
 
@@ -138,7 +138,7 @@ The project followed the Agile Scrum methodology, utilizing:
 - Milestone Tracking
 - Team Collaboration
 
-using Asana for project coordination and progress monitoring. 【1-75c021】
+using Asana for project coordination and progress monitoring.
 
 ---
 
